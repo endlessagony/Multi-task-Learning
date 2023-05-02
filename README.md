@@ -1,6 +1,6 @@
 # Multi-task Learning
 
-This repository contains code and data for evaluating multi-task model via app, which was written on PyQt5.
+This repository contains code and data for evaluating multi-task model (ABAW4 Competition) with the help of app, which was written on PyQt5.
 
 ## Setup
 
