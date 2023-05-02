@@ -17,7 +17,6 @@ pip install -r requirements.txt
 
 ## Results
 
-| P_{VA}      | P_{EX}      |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| P<sub>VA</sub>    | P<sub>EX</sub>      | P<sub>AU</sub>      | P<sub>MTL</sub>      |
+| ----------- | ----------- | ----------- | ----------- |
+| 0.470      | 0.371       | 0.507       | 1.347       |
