@@ -6,6 +6,11 @@ This repository contains code and data for training and evaluating multi-task le
 
 To set up the environment for running the code in this repository, follow these steps:
 
-1. Clone the repository:
-
+1. Clone the repository: 
+```
 git clone https://github.com/endlessagony/Multi-task-Learning.git
+```
+2. Install the requirements
+```
+pip install -r requirements.txt
+```
