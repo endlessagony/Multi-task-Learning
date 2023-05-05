@@ -3,8 +3,7 @@ This repository contains Jupyter Notebook(s) for the ABAW4 competition implement
 
 ## Introduction
 In this project, we propose a custom solution for the ABAW4 competition using an approach we call "feature block". 
-This approach involves extracting features from each modality (e.g., facial expressions, audio, and text) and combining them into a single feature block. 
-We then train a multi-task model on this feature block to predict the target emotions.
+We then train a multi-task model (based on [Andrey Savchenko EfficientNet-B0](https://github.com/HSE-asavchenko/face-emotion-recognition)) with this feature block to predict the target emotions, valence, arousal and action units.
 
 ## Feature Block Architecture
 Our "feature block" architecture consists of the following components:
